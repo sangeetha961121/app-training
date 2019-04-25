@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+    <name>
+    சொற்கத்ம்பம்
+    </name>
     <description>
-     Mobile App Training
+    தேசியப்பள்ளியில் பயிலும் இரண்டாம் ஆண்டு மாணவர்களுக்கு லக்ர, ளகர, ழகர எழுத்துகள் கொண்ட சொற்களை உருவாக்குதல்
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
